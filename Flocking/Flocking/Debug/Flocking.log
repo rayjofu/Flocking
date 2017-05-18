@@ -1,0 +1,9 @@
+﻿  VehicleManager.cpp
+c:\users\rafu\documents\visual studio 2015\projects\flocking\flocking\vehiclemanager.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Vehicle.cpp
+c:\users\rafu\documents\visual studio 2015\projects\flocking\flocking\vehicle.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Flocking.vcxproj -> C:\Users\rafu\documents\visual studio 2015\Projects\Flocking\Debug\Flocking.exe
+  Flocking.vcxproj -> C:\Users\rafu\documents\visual studio 2015\Projects\Flocking\Debug\Flocking.pdb (Full PDB)
